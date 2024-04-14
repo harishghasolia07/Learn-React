@@ -1,0 +1,13 @@
+nav,ul{
+    display: flex;
+    background-color: aliceblue;
+}
+li{
+    list-style-type: none;
+}
+ul{
+    gap: 1rem;
+}
+nav{
+    padding: 23px;
+}
